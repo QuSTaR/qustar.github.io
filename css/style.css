@@ -50,13 +50,13 @@ body {
 }
 
 a {
-  color: #3EC483;
+  color: #E140FE;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #3EC483;
+  color: #E140FE;
   outline: none;
 }
 
@@ -163,14 +163,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media screen and (max-width: 480px) {
   #fh5co-header #navbar li.active a {
-    color: #3EC483;
+    color: #E140FE;
   }
 }
 #fh5co-header #navbar li.active a span:before {
   visibility: visible;
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
-  background-color: #3EC483;
+  background-color: #E140FE;
 }
 @media screen and (max-width: 480px) {
   #fh5co-header #navbar li.active a span:before {
@@ -185,13 +185,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media screen and (max-width: 992px) and (max-width: 480px) {
   #fh5co-header #navbar li.active a {
-    color: #3EC483;
+    color: #E140FE;
   }
 }
 @media screen and (max-width: 992px) {
   #fh5co-header #navbar li.active a span {
     display: inline-block;
-    color: #3EC483;
+    color: #E140FE;
   }
   #fh5co-header #navbar li.active a span:before {
     bottom: 0;
@@ -212,7 +212,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 30px;
 }
 #fh5co-header #navbar li.call-to-action a:hover {
-  background-color: #3EC483;
+  background-color: #E140FE;
   color: #fff;
 }
 #fh5co-header #navbar li.call-to-action a span:before {
@@ -227,11 +227,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #fh5co-header #navbar li.call-to-action a.log-in {
-  border: 2px solid #3EC483;
-  background: #3EC483;
+  border: 2px solid #E140FE;
+  background: #E140FE;
 }
 #fh5co-header #navbar li.call-to-action a.log-in:hover {
-  background: #3EC483;
+  background: #E140FE;
   color: #fff;
 }
 #fh5co-header .navbar-brand {
@@ -266,7 +266,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 #fh5co-header.navbar-fixed-top #navbar li a:hover {
-  color: #3EC483;
+  color: #E140FE;
 }
 @media screen and (max-width: 992px) {
   #fh5co-header.navbar-fixed-top #navbar li a {
@@ -274,18 +274,18 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #fh5co-header.navbar-fixed-top #navbar li.active a {
-  color: #3EC483 !important;
+  color: #E140FE !important;
 }
 @media screen and (max-width: 768px) {
   #fh5co-header.navbar-fixed-top #navbar li.active a {
-    color: #3EC483 !important;
+    color: #E140FE !important;
   }
 }
 #fh5co-header.navbar-fixed-top #navbar li.active a span:before {
   visibility: visible;
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
-  background-color: #3EC483;
+  background-color: #E140FE;
 }
 @media screen and (max-width: 768px) {
   #fh5co-header.navbar-fixed-top #navbar li.active a span:before {
@@ -293,7 +293,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #fh5co-header.navbar-fixed-top #navbar li.call-to-action a {
-  border: 2px solid #3EC483;
+  border: 2px solid #E140FE;
   padding: 5px 10px 3px 10px;
   margin: 12px 0 0 0px;
   color: #fff;
@@ -303,7 +303,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 30px;
 }
 #fh5co-header.navbar-fixed-top #navbar li.call-to-action a:hover {
-  background-color: #3EC483;
+  background-color: #E140FE;
   color: #fff !important;
 }
 #fh5co-header.navbar-fixed-top #navbar li.call-to-action a span:before {
@@ -318,11 +318,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #fh5co-header.navbar-fixed-top #navbar li.call-to-action a.log-in {
-  border: 2px solid #3EC483;
-  background: #3EC483;
+  border: 2px solid #E140FE;
+  background: #E140FE;
 }
 #fh5co-header.navbar-fixed-top #navbar li.call-to-action a.log-in:hover {
-  background: #3EC483;
+  background: #E140FE;
   color: #fff;
 }
 #fh5co-header .navbar-default {
@@ -454,8 +454,8 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 18px;
 }
 #fh5co-home .text-inner .call-to-action a.demo {
-  border: 2px solid #3EC483;
-  background: #3EC483;
+  border: 2px solid #E140FE;
+  background: #E140FE;
   text-decoration: none !important;
 }
 @media screen and (max-width: 768px) {
@@ -597,7 +597,7 @@ h1, h2, h3, h4, h5, h6 {
 .testimony-entry .feed-bubble {
   padding: 30px;
   margin-bottom: 20px;
-  background: #3ec483;
+  background: #E140FE;
   position: relative;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
@@ -613,7 +613,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 0;
   border-style: solid;
   border-width: 10px 10px 0 10px;
-  border-color: #3ec483 transparent transparent transparent;
+  border-color: #E140FE transparent transparent transparent;
 }
 .testimony-entry .feed-bubble p {
   color: #fff;
@@ -667,7 +667,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 2;
   text-align: center;
   padding: 5px 10px;
-  background: #3EC483;
+  background: #E140FE;
 }
 .fh5co-blog .entry .blog-bg .date span, .fh5co-blog .entry .blog-bg .date small {
   display: block;
@@ -743,7 +743,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100px;
   height: 100px;
   margin: 1.15em auto 1em;
-  background: #3EC483;
+  background: #E140FE;
   color: rgba(255, 255, 255, 0.8);
   -webkit-transition: color 0.3s, background 0.3s;
   transition: color 0.3s, background 0.3s;
@@ -755,7 +755,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .pricing__item:hover .pricing__price {
   color: #fff;
-  background: #3EC483;
+  background: #E140FE;
 }
 
 .pricing__feature-list {
@@ -810,7 +810,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 130px;
   display: inline-block;
   position: relative;
-  background: #3EC483;
+  background: #E140FE;
   display: table;
   margin: 0 auto;
   -webkit-border-radius: 50%;
@@ -938,7 +938,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   left: 0;
   font-size: 22px;
-  color: #3EC483;
+  color: #E140FE;
 }
 #fh5co-footer .copyright {
   padding-top: 5em;
@@ -958,7 +958,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 10px;
 }
 #fh5co-footer .social-media li a {
-  color: #3EC483;
+  color: #E140FE;
 }
 #fh5co-footer .social-media li a:hover, #fh5co-footer .social-media li a:focus, #fh5co-footer .social-media li a:active {
   text-decoration: none;
@@ -1014,7 +1014,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-footer #btn-submit {
   color: rgba(255, 255, 255, 0.9) !important;
-  background: #3EC483 !important;
+  background: #E140FE !important;
 }
 
 .fh5co-nav-toggle {
@@ -1024,7 +1024,7 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 .fh5co-nav-toggle.active i::before, .fh5co-nav-toggle.active i::after {
-  background: #3EC483;
+  background: #E140FE;
 }
 .fh5co-nav-toggle:hover, .fh5co-nav-toggle:focus, .fh5co-nav-toggle:active {
   outline: none;
@@ -1141,9 +1141,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-primary {
-  background: #3EC483;
+  background: #E140FE;
   color: #fff;
-  border: 2px solid #3EC483;
+  border: 2px solid #E140FE;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #52ca90 !important;
@@ -1151,11 +1151,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #3EC483;
-  border: 2px solid #3EC483;
+  color: #E140FE;
+  border: 2px solid #E140FE;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #3EC483;
+  background: #E140FE;
   color: #fff;
 }
 
@@ -1303,11 +1303,11 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: none;
 }
 .social li a.social-box {
-  background: #3EC483;
+  background: #E140FE;
   color: #fff;
 }
 .social li a.social-circle {
-  background: #3EC483;
+  background: #E140FE;
   color: #fff;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1318,11 +1318,11 @@ h1, h2, h3, h4, h5, h6 {
   background: #393e46 !important;
 }
 .social.social-box a {
-  background: #3EC483;
+  background: #E140FE;
   color: #fff;
 }
 .social.social-circle a {
-  background: #3EC483;
+  background: #E140FE;
   color: #fff;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1410,3 +1410,35 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+/*My stuff goes here */
+
+div.circle-avatar{
+/* make it responsive */
+max-width: 100%;
+width:100%;
+height:auto;
+display:block;
+/* div height to be the same as width*/
+padding-top:100%;
+
+/* make it a circle */
+border-radius:50%;
+
+/* Centering on image`s center*/
+background-position-y: center;
+background-position-x: center;
+background-repeat: no-repeat;
+
+/* it makes the clue thing, takes smaller dimension to fill div */
+background-size: cover;
+
+/* it is optional, for making this div centered in parent*/
+margin: 0 auto;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+}
+
