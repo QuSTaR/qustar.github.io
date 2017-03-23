@@ -1414,6 +1414,14 @@ h1, h2, h3, h4, h5, h6 {
 
 /*My stuff goes here */
 
+.absoluteCenter {
+ /* The magic centering code */
+ margin:auto;
+ position:absolute;
+ top:0;bottom:0; /* Aligns Vertically - Remove for Horizontal Only */
+
+}
+
 div.circle-avatar{
 /* make it responsive */
 max-width: 100%;
