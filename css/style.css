@@ -1414,12 +1414,9 @@ h1, h2, h3, h4, h5, h6 {
 
 /*My stuff goes here */
 
-.absoluteCenter {
- /* The magic centering code */
- margin:auto;
- position:absolute;
- top:0;bottom:0; /* Aligns Vertically - Remove for Horizontal Only */
-
+.vertical_center {
+    display: flex;
+    align-items: center;
 }
 
 div.circle-avatar{
