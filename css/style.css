@@ -371,17 +371,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-home, #fh5co-home .text-wrap {
   height: 900px;
+  display: flex;
+  align-items: center;
 }
 #fh5co-home .text-wrap {
-  display: table;
   width: 100%;
   position: relative;
   z-index: 4;
 }
 #fh5co-home .text-inner {
   width: 100%;
-  display: table-cell;
-  vertical-align: middle;
 }
 #fh5co-home .text-inner h1 {
   font-size: 40px;
